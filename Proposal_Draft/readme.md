@@ -4,6 +4,7 @@
 
 <img width="170" alt="image" src="https://user-images.githubusercontent.com/91503635/172508351-4f033f43-de43-4408-9d81-ecbbbe3e1b26.png">
 fig: The Official logo of 3-1-1 service in Baltimore City
+
 **Severity of the Issue:**
 I was always interested in working on open datasets and when I found out about 3-1-1 services in Baltimore, I did further research and found the different aspects of 3-1-1 services. 311 is how citizens in a community can help bring awareness non-emergency issues and make sure authorities are aware that they exist. It is very difficult for authorities to know about the minor services that are needed to be done in any field. 3-1-1 is as important as 9-1-1 in terms of non-emergency complaints or issues. 
 
