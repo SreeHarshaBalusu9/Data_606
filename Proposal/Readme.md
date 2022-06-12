@@ -89,4 +89,4 @@ I am planning to evaluate the metrics such as f1-score, recall, accuracy, precis
 -	To perform meaningful Exploratory Data Analysis and stating the outcomes.
 -	Analyzing and visualizing the data.
 -	Applying various Classification techniques
--	Usage of various evaluation metrics to determine the performance of the model. 
+-	Usage of various evaluation metrics to determine the performance of the model.
