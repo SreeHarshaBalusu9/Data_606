@@ -13,6 +13,10 @@ I was always interested in working on open datasets and when I found out about 3
 **Overview:** 
 Firstly, I would like to find the statistics of the data and later try to find better attributes for model building. Also, I would like to find the outcome of service request based on which agency does the request belongs. For example electricity issues come under BGE, unattended vehicles in driveway comes under Transport agency. 
 
+The outcome is the response from the service agency whether they completed the work and closed the service request or shifted to other related agency. There are like 44 categories of outcomes out of which which like 12 of them are occurring most frequently.
+
+Considering only those 12 outcomes and the rest of them as "other" I had an idea of performing Encoding to convert the categorical variables into numeric variables.
+
 
 **Data Source:** https://data.baltimorecity.gov/datasets/311-customer-service-requests-2019/explore 
 
