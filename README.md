@@ -131,3 +131,8 @@ Grid search is performed in order to search for the best parameters using GridSe
 The Decision tree Regressor accuracy score is 68%.
 
 The accuracy score of Random Forest Regressor is found to be 73%. 
+
+
+Presentation Link: https://github.com/SreeHarshaBalusu9/Sreeharsha_Data_606/blob/main/DATA-606_Presentation.pptx
+
+Youtube Video: https://youtu.be/p9WWqVoCjhc 
