@@ -1,5 +1,6 @@
 This repository is part of my Capstone Project DATA_606 
-Instructor: Dr. Chaojie Wang
+
+**Instructor: Dr. Chaojie Wang**
 
 
 **Background Information:**
