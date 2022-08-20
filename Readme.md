@@ -20,7 +20,8 @@ Firstly, I would like to find the statistics of the data and later try to find b
 
 The outcome is the response from the service agency whether they completed the work and closed the service request or shifted to other related agency. There are like 44 categories of outcomes out of which which like 12 of them are occurring most frequently.
 
-Considering only those 12 outcomes and the rest of them as "other" I had an idea of performing Encoding to convert the categorical variables into numeric variables.
+The main objective of this project is to predict the outcome of the service request received based on the agency type and the method it was received.
+
 
 
 **Data Source:** https://data.baltimorecity.gov/datasets/311-customer-service-requests-2019/explore 
