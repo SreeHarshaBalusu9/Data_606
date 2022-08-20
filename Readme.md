@@ -1,6 +1,6 @@
 This repository is part of my Capstone Project DATA_606 
 
-**Instructor: Dr. Chaojie Wang**
+**Instructor:** Dr. Chaojie Wang
 
 
 **Background Information:**
@@ -76,7 +76,10 @@ Longitude: Longitude of the address
 
 Geolocation: Geolocation of the service address
 
-**Data Cleaning:** Some unwanted columns such as longitude, latitude are dropped as they have nothing to do with modelling and all.
+
+**Data Cleaning:** 
+
+Some unwanted columns such as longitude, latitude are dropped as they have nothing to do with modelling and all.
 
 Also, the rows which contains Null values are removed as they do not make any difference in further steps such as EDA and Model Building. 
 
@@ -86,6 +89,7 @@ Later Exploratory Data Analysis is performed on the final data followed by Model
 
 
 **Exploratory Data Analysis:**
+
 The pie chart which is plotted for method received shows that most of the service requests are received by Phone followed by API, System and Internal when compared to the others. 
 
 Out of the 19 kinds of agencies present, only 10 of the agencies have a meaningfull value of requests when compared to the rest of the other agencies.
